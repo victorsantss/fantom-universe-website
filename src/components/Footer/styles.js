@@ -5,6 +5,7 @@ export const Container = styled.div`
   flex-direction: column;
   align-items: center;
   margin-top: 6rem;
+  margin-bottom: 3rem;
 `;
 
 export const SubTitle = styled.h1`
